@@ -2,6 +2,10 @@
 
 This is a basic portfolio template for Next.js. It is a simple, static site that can be easily customized to fit your needs. It is built with Next.js, a React framework that makes it easy to create static sites with server-side rendering.
 
+## Demo
+
+https://dogukanoksuz.github.io/nextjs-portfolio-template
+
 ## Features
 
 - Simple, clean design
