@@ -1,0 +1,104 @@
+[
+    {
+        "id": "portfolio-item-1",
+        "name": "Portfolio Item 1",
+        "thumbnail": "http://placehold.it/300x200",
+        "description": "This is a description of the first portfolio item.",
+        "category": "category1",
+        "details": {
+            "client": "Client Name",
+            "date": "2014",
+            "service": "Web Development"
+        },
+        "images": [
+            "http://placehold.it/800x400",
+            "http://placehold.it/800x400",
+            "http://placehold.it/800x400"
+        ]
+    },
+    {
+        "id": "portfolio-item-2",
+        "name": "Portfolio Item 2",
+        "thumbnail": "http://placehold.it/300x200",
+        "description": "This is a description of the second portfolio item.",
+        "category": "category2",
+        "details": {
+            "client": "Client Name",
+            "date": "2014",
+            "service": "Web Development"
+        },
+        "images": [
+            "http://placehold.it/800x400",
+            "http://placehold.it/800x400",
+            "http://placehold.it/800x400"
+        ]
+    },
+    {
+        "id": "portfolio-item-3",
+        "name": "E-Ticaret Sitesi Geliştirme",
+        "thumbnail": "http://placehold.it/300x200",
+        "description": "Kendi e-ticaret sitenizi mi kurmak istiyorsunuz? Bizimle iletişime geçin ve hayalinizdeki mağazayı gerçeğe dönüştürelim.",
+        "category": "category3",
+        "details": {
+            "client": "Moda Mağazası",
+            "date": "2024",
+            "service": "E-Ticaret Sitesi Geliştirme"
+        },
+        "images": [
+            "http://placehold.it/800x400",
+            "http://placehold.it/800x400",
+            "http://placehold.it/800x400"
+        ]
+    },
+    {
+        "id": "portfolio-item-4",
+        "name": "Ürün Tasarımı ve Prototipleme",
+        "thumbnail": "http://placehold.it/300x200",
+        "description": "Kullanıcı dostu ve işlevsel ürünler tasarlamak ve prototiplemek için bize güvenebilirsiniz.",
+        "category": "category4",
+        "details": {
+            "client": "Teknoloji Şirketi",
+            "date": "2023",
+            "service": "Ürün Tasarımı ve Prototipleme"
+        },
+        "images": [
+            "http://placehold.it/800x400",
+            "http://placehold.it/800x400",
+            "http://placehold.it/800x400"
+        ]
+    },
+    {
+        "id": "portfolio-item-5",
+        "name": "Mobil Uygulama Geliştirme",
+        "thumbnail": "http://placehold.it/300x200",
+        "description": "Android ve iOS platformları için kullanıcı dostu ve yüksek performanslı mobil uygulamalar geliştiriyoruz.",
+        "category": "category1",
+        "details": {
+            "client": "Eğlence Şirketi",
+            "date": "2022",
+            "service": "Mobil Uygulama Geliştirme"
+        },
+        "images": [
+            "http://placehold.it/800x400",
+            "http://placehold.it/800x400",
+            "http://placehold.it/800x400"
+        ]
+    },
+    {
+        "id": "portfolio-item-6",
+        "name": "Yazılım Testi ve Hatasızlaştırma",
+        "thumbnail": "http://placehold.it/300x200",
+        "description": "Yazılımlarınızın hatalardan arınmış ve güvenilir olmasını sağlıyoruz.",
+        "category": "category2",
+        "details": {
+            "client": "Finansal Kuruluş",
+            "date": "2021",
+            "service": "Yazılım Testi ve Hatasızlaştırma"
+        },
+        "images": [
+            "http://placehold.it/800x400",
+            "http://placehold.it/800x400",
+            "http://placehold.it/800x400"
+        ]
+    }
+]
