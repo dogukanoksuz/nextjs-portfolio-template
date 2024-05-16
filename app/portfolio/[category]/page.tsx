@@ -2,15 +2,15 @@ import getPortfolioItems, { getPortfolioCategories } from "@/lib/portfolio-api";
 import { Metadata } from "next";
 import Link from "next/link";
 
+const portfolioCategories = getPortfolioCategories();
+
 export async function generateMetadata({
   params,
 }: {
-  params: { category: string[] };
+  params: { category: string };
 }): Promise<Metadata> {
   return {
-    title:
-      (params.category && getPortfolioCategories()[params.category[0]]) ||
-      "Portfolio",
+    title: portfolioCategories[params.category] || "Portfolio",
     description: "Check out my portfolio!",
   };
 }
